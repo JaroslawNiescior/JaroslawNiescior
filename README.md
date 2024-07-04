@@ -1,3 +1,5 @@
+#👋 Hi, I'm Jaroslaw!
+
 # 💫 About Me:
 Versatile and results-driven JavaScript Developer with over 6 years of experience optimizing web applications for maximum speed and scalability. Proven track record in integrating third-party APIs and collaborating with stakeholders to create user-friendly interfaces, resulting in increased user engagement and customer satisfaction. Strong expertise in RESTful APIs and React, with a commitment to staying up-to-date with the latest technologies and tools.
 
