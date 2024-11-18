@@ -20,7 +20,7 @@ If you'd like to get in touch, feel free to reach out through the following meth
 
 ## 🛠️ Projects:
 Here are some of my recent projects:
-- **[BeryBoat - shop/dashboard](https://berryboat.eu/)**
+- **[BerryBoat - shop/dashboard](https://berryboat.eu/)**
 - **[WateFinance - business page](https://watefinance.pl/)**
 - **[AnnaGaniadek - portfolio](https://annagniadek.vercel.app/)**
 
